@@ -3,11 +3,11 @@
     <div class="about_container">
         <div class="row">
             <div class="col-md-8 ">
-                <img class="about_banner" src="http://assets.codecloudapp.com/sites/57d1b1536e6f642448000000/image/jpeg/undefined/Bridge_to_Plaza_-_Wash2.jpg" alt="">
+                <img class="about_banner" src="http://assets.codecloudapp.com/sites/57d1b1536e6f642448000000/image/png/undefined/contact.png" alt="">
                 <div id="mm_page_content" class="promo_list_desc"></div>
             </div>
             <div class="col-md-4">
-                <img  style="margin-bottom:20px;" src="http://assets.codecloudapp.com/sites/57d1b1536e6f642448000000/image/png/undefined/contact.png" class="hidden_phone" alt="">
+                <img  style="margin-bottom:20px;" src="http://assets.codecloudapp.com/sites/57d1b1536e6f642448000000/image/png/undefined/square.png" class="hidden_phone" alt="">
                 <div class="col-md-12 property_right">
                     <h2 class="promo_list_name">Property Management</h2>
                     <div class="col-md-12">
